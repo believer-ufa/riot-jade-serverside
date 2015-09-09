@@ -1,0 +1,9 @@
+example
+
+    a.clean(href="/")
+    ul
+        li One
+        li Two
+        li Three
+
+

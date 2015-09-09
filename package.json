@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "devDependencies": {
+    "jade": "^1.11.0",
+    "riot": "^2.2.4"
+  }
+}
